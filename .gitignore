@@ -1,0 +1,9 @@
+*.vcd
+*.jou
+*.log
+*.str
+*.wdb
+*.cache
+.Xil/
+build/
+Debug/

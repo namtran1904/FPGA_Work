@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_module" Lut="1" T_Register="65(0)" T_Lut="107(1)">
+ <SubModule name="u_receiver" Register="39" Lut="67" T_Register="39(39)" T_Lut="67(67)"/>
+ <SubModule name="u_transmitter" Register="26" Lut="39" T_Register="26(26)" T_Lut="39(39)"/>
+</Module>

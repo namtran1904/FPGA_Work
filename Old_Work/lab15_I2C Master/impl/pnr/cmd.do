@@ -1,0 +1,16 @@
+-d C:\Embedded_Dev\FPGA_Work\lab15_I2C Master\impl\gwsynthesis\lab15_I2C Master.vg
+-p GW2A-18C-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cfg C:\Embedded_Dev\FPGA_Work\lab15_I2C Master\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000

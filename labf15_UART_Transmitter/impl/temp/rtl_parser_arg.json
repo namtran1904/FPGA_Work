@@ -1,0 +1,17 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf15_UART_Transmitter/src/labf15_UART_Transmitter.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Embedded_Dev/FPGA_Work/labf15_UART_Transmitter/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

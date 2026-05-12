@@ -1,0 +1,33 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/Test_Bench.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf10_Debounce_Glitch Filter.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf15_UART_Transmitter.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf16_UART_Receiver.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf29_Exp01_Heartbeat.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+  "InstLine" : 82,
+  "InstName" : "Top_module",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+  "ModuleLine" : 82,
+  "ModuleName" : "Top_module",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+    "InstLine" : 91,
+    "InstName" : "u_debouncer_1",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+    "ModuleLine" : 59,
+    "ModuleName" : "button_debouncing"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+    "InstLine" : 92,
+    "InstName" : "u_debouncer_2",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+    "ModuleLine" : 59,
+    "ModuleName" : "button_debouncing"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+    "InstLine" : 93,
+    "InstName" : "u_pwm",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab11_PWM/src/lab11_PWM.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "pwm_core"
+   }
+  ]
+ }
+]

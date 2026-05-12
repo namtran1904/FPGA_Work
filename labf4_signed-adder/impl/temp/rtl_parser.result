@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/labf4_signed-adder/src/labf4_signed-adder.v",
+  "InstLine" : 1,
+  "InstName" : "signed_adder",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/labf4_signed-adder/src/labf4_signed-adder.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "signed_adder"
+ }
+]

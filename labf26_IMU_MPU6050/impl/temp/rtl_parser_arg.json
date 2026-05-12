@@ -1,0 +1,29 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf26_IMU_MPU6050/src/Testbench.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf26_IMU_MPU6050/src/labf26_IMU_Controller.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf26_IMU_MPU6050/src/labf26_IMU_I2C.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf26_IMU_MPU6050/src/labf26_IMU_I2C_FIX.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Embedded_Dev/FPGA_Work/labf26_IMU_MPU6050/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

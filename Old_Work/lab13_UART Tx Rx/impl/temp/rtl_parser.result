@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab13_UART Tx Rx/src/top module.v",
+  "InstLine" : 1,
+  "InstName" : "top_module",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab13_UART Tx Rx/src/top module.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_module",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab13_UART Tx Rx/src/top module.v",
+    "InstLine" : 9,
+    "InstName" : "u_receiver",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab13_UART Tx Rx/src/UART Rx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab13_UART Tx Rx/src/top module.v",
+    "InstLine" : 16,
+    "InstName" : "u_transmitter",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab13_UART Tx Rx/src/UART Tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   }
+  ]
+ }
+]

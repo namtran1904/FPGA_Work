@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Slave/src/UART Rx.v",
+  "InstLine" : 1,
+  "InstName" : "uart_rx",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Slave/src/UART Rx.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "uart_rx"
+ },
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Slave/src/top_module.v",
+  "InstLine" : 1,
+  "InstName" : "top_slave",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Slave/src/top_module.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_slave",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Slave/src/top_module.v",
+    "InstLine" : 12,
+    "InstName" : "spi_slave",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Slave/src/SPI Slave.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "SPI_Slave"
+   }
+  ]
+ }
+]

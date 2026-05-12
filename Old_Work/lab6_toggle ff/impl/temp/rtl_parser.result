@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab6_toggle ff/src/lab6_toggle ff.v",
+  "InstLine" : 1,
+  "InstName" : "toggle_ff",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab6_toggle ff/src/lab6_toggle ff.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "toggle_ff"
+ }
+]

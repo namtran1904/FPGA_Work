@@ -1,0 +1,21 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf4_signed-adder/src/labf4_signed-adder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf4_signed-adder/src/tb_signed_adder.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Embedded_Dev/FPGA_Work/labf4_signed-adder/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

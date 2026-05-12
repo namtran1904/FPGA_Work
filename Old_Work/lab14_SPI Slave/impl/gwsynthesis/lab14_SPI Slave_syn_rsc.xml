@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_slave" Lut="1" T_Register="16(0)" T_Lut="2(1)">
+ <SubModule name="spi_slave" Register="16" Lut="1" T_Register="16(16)" T_Lut="1(1)"/>
+</Module>

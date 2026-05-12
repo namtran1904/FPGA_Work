@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/top_module.v",
+  "InstLine" : 1,
+  "InstName" : "top_bridge_master",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/top_module.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_bridge_master",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/top_module.v",
+    "InstLine" : 15,
+    "InstName" : "u_receiver",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/UART Rx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/top_module.v",
+    "InstLine" : 22,
+    "InstName" : "u_transmitter",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/UART Tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/top_module.v",
+    "InstLine" : 30,
+    "InstName" : "uart_spi_master",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab14_SPI Master/src/SPI_Master.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "SPI_Master"
+   }
+  ]
+ }
+]

@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/labf5_Binary-count/src/labf5_Binary-count.v",
+  "InstLine" : 1,
+  "InstName" : "Binary_counter",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/labf5_Binary-count/src/labf5_Binary-count.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Binary_counter"
+ }
+]

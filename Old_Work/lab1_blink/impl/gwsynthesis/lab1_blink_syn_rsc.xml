@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="blink" Register="30" Alu="4" Lut="50" T_Register="30(30)" T_Alu="4(4)" T_Lut="50(50)"/>

@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf29_Exp01_Heartbeat.v",
+  "InstLine" : 1,
+  "InstName" : "Exp01_Heartbeat",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf29_Exp01_Heartbeat.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Exp01_Heartbeat",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf29_Exp01_Heartbeat.v",
+    "InstLine" : 12,
+    "InstName" : "uart_rx",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf16_UART_Receiver.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "UART_Receiver"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf29_Exp01_Heartbeat.v",
+    "InstLine" : 21,
+    "InstName" : "uart_tx",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf15_UART_Transmitter.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "UART_Transmitter"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf29_Exp01_Heartbeat.v",
+    "InstLine" : 31,
+    "InstName" : "u_debounce",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/labf29_Exp01_Heartbeat/src/labf10_Debounce_Glitch Filter.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Debounce"
+   }
+  ]
+ }
+]

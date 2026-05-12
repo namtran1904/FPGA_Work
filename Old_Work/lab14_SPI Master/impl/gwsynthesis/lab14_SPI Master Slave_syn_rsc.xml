@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_bridge_master" Lut="1" T_Register="87(0)" T_Lut="148(1)">
+ <SubModule name="u_receiver" Register="39" Lut="66" T_Register="39(39)" T_Lut="66(66)"/>
+ <SubModule name="u_transmitter" Register="26" Lut="39" T_Register="26(26)" T_Lut="39(39)"/>
+ <SubModule name="uart_spi_master" Register="22" Lut="42" T_Register="22(22)" T_Lut="42(42)"/>
+</Module>

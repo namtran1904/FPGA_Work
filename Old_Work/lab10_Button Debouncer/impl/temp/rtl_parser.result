@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab10_Button Debouncer/src/lab10_Button Debouncer.v",
+  "InstLine" : 51,
+  "InstName" : "Top_module",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab10_Button Debouncer/src/lab10_Button Debouncer.v",
+  "ModuleLine" : 51,
+  "ModuleName" : "Top_module",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab10_Button Debouncer/src/lab10_Button Debouncer.v",
+    "InstLine" : 58,
+    "InstName" : "u_debouncer",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab10_Button Debouncer/src/lab10_Button Debouncer.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "button_debouncing"
+   },
+   {
+    "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab10_Button Debouncer/src/lab10_Button Debouncer.v",
+    "InstLine" : 59,
+    "InstName" : "u_counter",
+    "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab10_Button Debouncer/src/lab10_Button Debouncer.v",
+    "ModuleLine" : 24,
+    "ModuleName" : "Ring_counter"
+   }
+  ]
+ }
+]

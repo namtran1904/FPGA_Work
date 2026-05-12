@@ -1,0 +1,21 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf5_overflow-saturation/src/labf5_overflow-saturation.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Embedded_Dev/FPGA_Work/labf5_overflow-saturation/src/tb_overflow_saturation.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Embedded_Dev/FPGA_Work/labf5_overflow-saturation/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

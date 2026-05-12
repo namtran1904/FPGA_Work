@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Embedded_Dev/FPGA_Work/lab12_Breathing Led/src/lab12_Breathing Led.v",
+  "InstLine" : 1,
+  "InstName" : "led_breathing",
+  "ModuleFile" : "C:/Embedded_Dev/FPGA_Work/lab12_Breathing Led/src/lab12_Breathing Led.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led_breathing"
+ }
+]
